@@ -1,0 +1,144 @@
+.left-vBox {
+    /*-fx-background-color: linear-gradient(to bottom, #403f3f, #C0C0C0);*/
+    -fx-background-color: linear-gradient(to bottom, #373a3e, #403f3f, #5e5e5e, #C0C0C0);
+}
+
+.Btn {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-background-radius: 30;
+    -fx-text-fill: #fef8fe;
+}
+
+.Btn:hover {
+    -fx-background-color: #fef8fe;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 30px;
+}
+
+.Thbox {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+}
+
+.transparent {
+    -fx-background-color: transparent;
+}
+
+.Rvbox {
+    -fx-background-color: #E8D8C4;
+}
+
+.Chbox {
+    -fx-background-color: #fff;
+    -fx-border-color: rgb(168, 168, 168);
+    -fx-border-radius: 30;
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-background-radius: 30;
+}
+
+.whiteBg {
+    -fx-background-color: #fff;
+    -fx-border-color: #fff;
+}
+
+.import-vbox {
+    -fx-background-color: #d1cfcf;
+    -fx-border-color: #000000;
+}
+
+.card {
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30;
+}
+
+.shadow {
+    -fx-effect: dropShadow(three-pass-box, rgba(0, 0, 0, 0.1), 10.0, 0.0, 0.0, 10.0);
+}
+
+.seperator {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-border-color: black;
+    -fx-border-radius: 30;
+}
+
+.Chbox1 {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-border-color: rgb(168, 168, 168);
+    -fx-background-radius: 30;
+    -fx-border-radius: 30;
+    -fx-border-width: 1.5;
+}
+
+.scrollTrans {
+    -fx-background-color: transparent;
+}
+
+.dashBoard_items {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+}
+
+.dashBoard_items :hover {
+    -fx-background-color: linear-gradient(to bottom, #403f3f, #C0C0C0);
+
+}
+
+.chart-bar {
+    -fx-bar-fill: #943235;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-background-radius: 8px 8px 8px 8px;
+    -fx-background-insets: 0 0 0 0;
+}
+
+.table-view .column-header,
+.filter {
+    -fx-background-color: transparent;
+    -fx-size: 40px;
+}
+
+.table-view .column-header-background .label {
+    -fx-text-fill: rgb(255, 255, 255);
+}
+
+.table-view {
+    -fx-border-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-border-width: 2px;
+    -fx-padding: 0px;
+    -fx-border-radius: 8px;
+    -fx-background-color: transparent;
+}
+
+.Btn1 {
+    -fx-background-color: #fef8e0;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 30px;
+
+}
+
+.Btn1:hover {
+    /* -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);  */
+    -fx-background-color: green;
+    -fx-background-radius: 30;
+    -fx-text-fill: #fef8fe;
+}
+
+.clear {
+    -fx-background-color: #fef8e0;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 30px;
+
+}
+
+.clear:hover {
+    /* -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);  */
+    -fx-background-color: red;
+    -fx-background-radius: 30;
+    -fx-text-fill: #fef8fe;
+}
+
+.myProfile{
+    -fx-background-color: linear-gradient(to bottom right,  #403f3f,#858585, #e6e1c9);
+}
+
+

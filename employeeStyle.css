@@ -1,0 +1,57 @@
+.left-vBox {
+    -fx-background-color: linear-gradient(to bottom, #373a3e, #403f3f , #5e5e5e, #C0C0C0);
+}
+
+.Btn {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-background-radius: 30;
+    -fx-text-fill: #fef8fe;
+}
+
+.Btn:hover{
+    -fx-background-color: #fef8fe;
+    -fx-text-fill: #000000;     
+    -fx-background-radius: 30px; 
+}
+
+.Thbox {
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+}
+
+.transparent {
+    -fx-background-color: transparent;
+}
+
+.Rvbox{
+    -fx-background-color: #E8D8C4;
+}
+
+.Chbox {
+    -fx-background-color: #fff;
+    -fx-border-color: rgb(168, 168, 168);
+    -fx-border-radius: 30;
+    -fx-background-color: linear-gradient(to bottom right, #BB3A3A, #722327);
+    -fx-background-radius: 30;
+}
+
+.whiteBg{
+    -fx-background-color: #fff;
+    -fx-border-color: #fff;
+}
+
+.import-vbox{
+    -fx-background-color: #d1cfcf;
+    -fx-border-color: #000000;
+}
+
+.card{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
+
+
